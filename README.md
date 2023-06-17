@@ -1,5 +1,7 @@
 # Battery Lab 
-Battery Lab is a further development of [BNotifier](https://github.com/JacktorStan/BNotifier), This is the official Battery Lab repository
+Battery Lab is a further development of [BNotifier](https://github.com/JacktorStan/BNotifier), This is the official Battery Lab repository (Close Source)
+
+
 
 
 [![Play Store](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.jacktor.batterylab%26l%3DPlay%2520Store%26m%3D%24version%2520-%2520%2520%2524updated
